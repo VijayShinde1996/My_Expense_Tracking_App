@@ -1,4 +1,4 @@
-# Expense Tracker Application
+# Expense Tracker Application : https://vijayshinde1996.github.io/My_Expense_Tracking_App/
 
 ## Overview
 
@@ -25,6 +25,4 @@ The Expense Tracker Application is a web-based tool built with **HTML, CSS, PHP,
 
 - **Database Integration**: Implement a backend database to store user data securely and allow for more robust data handling.
 - **Add More Features**: Introduce features such as budget setting, expense tracking alerts, and export functionality for reports.
-
-## File Structure
 
