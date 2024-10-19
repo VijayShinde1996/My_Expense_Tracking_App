@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Expense Tracker Application is a web-based tool built with HTML, CSS, and JavaScript that allows users to manage their income and expenses effectively. Users can add, edit, and delete transactions, categorize expenses, and visualize their financial data through interactive charts. The application utilizes localStorage for data persistence, enabling users to maintain their financial records even after refreshing the page.
+The Expense Tracker Application is a web-based tool built with **HTML, CSS, PHP,** and **JavaScript** that allows users to manage their income and expenses effectively. Users can add, edit, and delete transactions, categorize expenses, and visualize their financial data through interactive charts. The application utilizes localStorage for data persistence, enabling users to maintain their financial records even after refreshing the page.
 
 ## Features
 
@@ -15,10 +15,16 @@ The Expense Tracker Application is a web-based tool built with HTML, CSS, and Ja
 
 ## Technologies Used
 
-- HTML
-- CSS
-- JavaScript
-- Chart.js (for data visualization)
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **PHP**
+- **Chart.js** (for data visualization)
+
+## Future Scope
+
+- **Database Integration**: Implement a backend database to store user data securely and allow for more robust data handling.
+- **Add More Features**: Introduce features such as budget setting, expense tracking alerts, and export functionality for reports.
 
 ## File Structure
 
